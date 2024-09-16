@@ -1,0 +1,6 @@
+@MyAgendaAPI_HostAddress = http://localhost:8081
+
+GET {{MyAgendaAPI_HostAddress}}/api/contacts/
+Accept: application/json
+
+###
