@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/ExtremeSSD/LibrarySSD/BlueTech/ProjetoPratico/backend/agenda-be/MyAgendaAPI/MyAgendaAPI.csproj": {}
+    "/Volumes/ExtremeSSD/LibrarySSD/BlueTech/ContactsAgenda/MyAgendaAPI/MyAgendaAPI.csproj": {}
   },
   "projects": {
-    "/Volumes/ExtremeSSD/LibrarySSD/BlueTech/ProjetoPratico/backend/agenda-be/MyAgendaAPI/MyAgendaAPI.csproj": {
+    "/Volumes/ExtremeSSD/LibrarySSD/BlueTech/ContactsAgenda/MyAgendaAPI/MyAgendaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/ExtremeSSD/LibrarySSD/BlueTech/ProjetoPratico/backend/agenda-be/MyAgendaAPI/MyAgendaAPI.csproj",
+        "projectUniqueName": "/Volumes/ExtremeSSD/LibrarySSD/BlueTech/ContactsAgenda/MyAgendaAPI/MyAgendaAPI.csproj",
         "projectName": "MyAgendaAPI",
-        "projectPath": "/Volumes/ExtremeSSD/LibrarySSD/BlueTech/ProjetoPratico/backend/agenda-be/MyAgendaAPI/MyAgendaAPI.csproj",
+        "projectPath": "/Volumes/ExtremeSSD/LibrarySSD/BlueTech/ContactsAgenda/MyAgendaAPI/MyAgendaAPI.csproj",
         "packagesPath": "/Users/malode/.nuget/packages/",
-        "outputPath": "/Volumes/ExtremeSSD/LibrarySSD/BlueTech/ProjetoPratico/backend/agenda-be/MyAgendaAPI/obj/",
+        "outputPath": "/Volumes/ExtremeSSD/LibrarySSD/BlueTech/ContactsAgenda/MyAgendaAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/malode/.nuget/NuGet/NuGet.Config"

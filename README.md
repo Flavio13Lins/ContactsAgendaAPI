@@ -24,6 +24,7 @@ ContactsAgendaAPI is a web API built using ASP.NET Core that provides CRUD (Crea
 ```sh
 dotnet restore
 ```
+
 Configure the database connection string: Update the appsettings.json file with your MySQL connection string:
 
 ```json
@@ -40,17 +41,27 @@ Configure the database connection string: Update the appsettings.json file with 
   "AllowedHosts": "*"
 }
 ```
+
 ### Run database migrations:
 
 ```sh
 dotnet ef database update
 ```
+
 ### Running the API
 
 1. **Build and run the project**:
+
 ```sh
 dotnet run
 ```
+
+### Run unit tests for this API:
+
+See the MyAgendaAPI.Tests folder
+
+### Running the API
+
 Access the API: The API will be available at https://localhost:8181 (or http://localhost:8081).
 
 Access Swagger UI: Navigate to https://localhost:8181/swagger to explore the API endpoints interactively.
